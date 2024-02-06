@@ -9,7 +9,7 @@ Sou um Desenvolvedor Engenheiro de Software e estudante de Ciências da Computa�
 
 ## Minhas Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itallo2701&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![itallo2701's GitHub stats](https://github-readme-stats.vercel.app/api?username=itallo2701&count_private=true&show_icons=true&theme=radical)
 
 ## Tecnologias e Ferramentas
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
