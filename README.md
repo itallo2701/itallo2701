@@ -26,6 +26,6 @@ Sou um Desenvolvedor Engenheiro de Software e estudante de CiÃªncias da ComputaÃ
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 
 ## Entre em Contato
-- E-mail: [itallo2701@gmail.com]
-- Instagram: [@itallo2701]
+- E-mail: itallo2701@gmail.com
+- Instagram: @itallo2701
 - LinkedIn: [itallo2701](www.linkedin.com/in/itallo-bessa)
