@@ -11,6 +11,8 @@ Sou um Desenvolvedor Engenheiro de Software e estudante de CiÃªncias da ComputaÃ
 
 ![itallo2701's GitHub stats](https://github-readme-stats.vercel.app/api?username=itallo2701&count_private=true&show_icons=true&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=itallo2701&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Tecnologias e Ferramentas
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572B6)
